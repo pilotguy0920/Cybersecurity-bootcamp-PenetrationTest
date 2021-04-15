@@ -1,2 +1,2 @@
-# Cybersecurity-bootcamp-PenetrattionTest
+# Cybersecurity-bootcamp-PenetrationTest
 ASU Cybersecurity bootcamp penetration test and report
